@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @safalyakumbhare
-- 👀 I’m interested in ...Programming
+- 👀 I’m interested in ...Coding and exploring new innovative ideas in android development.
 - 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
