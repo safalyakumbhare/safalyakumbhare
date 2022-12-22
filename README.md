@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @safalyakumbhare
-- 👀 I’m interested in ...Coding and exploring new innovative ideas in android development.
-- 🌱 I’m currently learning ...Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Web development and creating new stuff on my website.
+- 🌱 I’m currently learning ...Pyhton and I have great knowledge of Java.
+- 💞️ I’m looking to collaborate on ...IoT Devices
 - 📫 How to reach me ...
 
 <!---
