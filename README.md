@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @safalyakumbhare
 - 👀 I’m interested in ...Web development and exploring to get use to AI.
 - 🌱 I’m currently learning ...Web Development and I have great knowledge of Java.
-- 💞️ I’m looking to collaborate on ...Iot and Tech Industries.
+- 💞️ I’m looking to collaborate on ...AI tools and innovative web apps.
 - 📫 How to reach me ...safalyakumbhare@gmail.com
 
 <!---
