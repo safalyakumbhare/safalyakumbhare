@@ -4,5 +4,5 @@
 <p>Let's go for a fascinating journey of coding together, turning lines of code into digital masterpieces!</p>
 <h2>Feel Free to Connect With Me</h2>
 <ul>
-    <li><a href="www.linkedin.com/in/safalya-kumbhare-4b5a9027b">Linkedin</a></li>
+    <li><a href="https://www.linkedin.com/in/safalya-kumbhare-4b5a9027b/">Linkedin</a></li>
 </ul>
