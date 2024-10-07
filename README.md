@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Safalya Kumbhare</h1>
+<h1 align="center">Hello World 👋, I'm Safalya Kumbhare</h1>
 <h3 align="center">I’m a passionate web developer with solid skills in HTML, CSS, and a working knowledge of JavaScript. I leverage frameworks like Bootstrap and jQuery to create responsive and interactive web experiences. My expertise extends to backend development, where I excel in PHP, seamlessly connecting dynamic websites to MySQL databases. To enhance my productivity, I utilize AI tools like GitHub Copilot, Blackbox AI, and various other development tools.</h3>
 
 - 🌱 I’m currently learning **HTML5 , CSS3 , BOOTSTRAP 5 , JS , JQUERY , MYSQL , PHP , LARAVEL , WORDPRESS**
