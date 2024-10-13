@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **safalyakumbhare@gmail.com**
 
-- ⚡ Fun fact **Hustler**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
