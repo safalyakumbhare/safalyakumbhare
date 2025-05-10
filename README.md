@@ -1,11 +1,15 @@
 <h1 align="center">Hello World 👋, I'm Safalya Kumbhare</h1>
-<h3 align="center">I’m a passionate web developer with solid skills in HTML, CSS, and a working knowledge of JavaScript. I leverage frameworks like Bootstrap and jQuery to create responsive and interactive web experiences. My expertise extends to backend development, where I excel in PHP, seamlessly connecting dynamic websites to MySQL databases. To enhance my productivity, I utilize AI tools like GitHub Copilot, Blackbox AI, and various other development tools.</h3>
+<h3 align="center">A Full Stack Laravel Developer with a solid foundation gained through an industrial training course in PHP
+Laravel. Currently working as a Laravel Developer Intern on a live project, actively contributing to backend
+development, API integration, and user experience enhancement. Also pursuing a React training program covering
+React 19, Redux, and Firebase to expand frontend capabilities. Eager to apply and grow my skills in a full-time role
+while contributing to innovative and impactful web solutions.</h3>
 
-- 🌱 I’m currently learning **HTML5 , CSS3 , BOOTSTRAP 5 , JS , JQUERY , MYSQL , PHP , LARAVEL , WORDPRESS**
+- 🌱 I’m currently learning **HTML5 , CSS3 , BOOTSTRAP 5 , JS , JQUERY , MYSQL , PHP , LARAVEL , REACT**
 
 - 👨‍💻 All of my projects are available at [safalyakumbhare.github.io](safalyakumbhare.github.io)
 
-- 💬 Ask me about **PHP , LARAVEL FRAMEWORK , FRONT-END AND BACK-END DEVELOPMENT**
+- 💬 Ask me about **PHP , LARAVEL FRAMEWORK , REACT , FRONT-END AND BACK-END DEVELOPMENT**
 
 - 📫 How to reach me **safalyakumbhare@gmail.com**
 
@@ -13,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://www.linkedin.com/in/safalya-kumbhare-4b5a9027b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safalya kumbhare" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/safalya-kumbhare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safalya kumbhare" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/safalyakumbhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="safalya kumbhare" height="30" width="40" /></a>
 </p>
 
