@@ -9,11 +9,18 @@
   while contributing to innovative and impactful web solutions.
 </h3>
 
-- 🌱 I’m currently learning **HTML5 , CSS3 , BOOTSTRAP 5 , JS , JQUERY , MYSQL ,
-PHP , LARAVEL , REACT** - 👨‍💻 All of my projects are available at
-[safalyakumbhare.github.io](safalyakumbhare.github.io) - 💬 Ask me about **PHP ,
-LARAVEL FRAMEWORK , REACT , FRONT-END AND BACK-END DEVELOPMENT** - 📫 How to
-reach me **safalyakumbhare@gmail.com**
+<ul>
+  <li>
+    🌱 I’m currently learning **HTML5 , CSS3 , BOOTSTRAP 5 , JS , JQUERY , MYSQL
+    , PHP , LARAVEL , REACT**
+  </li>
+  <li>👨‍💻 All of my projects are available at Github Profile</li>
+  <li>
+    💬 Ask me about **PHP , LARAVEL FRAMEWORK , REACT , FRONT-END AND BACK-END
+    DEVELOPMENT** - 
+  </li>
+  <li>📫 How to reach me **safalyakumbhare@gmail.com**</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
