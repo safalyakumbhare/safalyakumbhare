@@ -84,7 +84,7 @@
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"
       alt="bootstrap"
-      width="40"
+      width="45"
       height="40"
     />
   </a>
@@ -93,6 +93,15 @@
     <img
       src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"
       alt="React"
+      width="40"
+      height="40"
+    />
+  </a>
+
+   <a href="https://redux.js.org/" style="margin-right: 10px;" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.icons8.com/ios7/600/FFFFFF/redux.png"
+      alt="Redux"
       width="40"
       height="40"
     />
@@ -118,8 +127,17 @@
 
   <a href="https://laravel.com/" style="margin-right: 10px;" target="_blank" rel="noreferrer">
     <img
-      src="https://www.hashstudioz.com/images/hire-laravel-hero.webp"
+      src="https://focuslab-cms.imgix.net/shared/5-80.jpg?auto=format&crop=focalpoint&fp-debug=false&fp-x=0.5&fp-y=0.5&ixlib=php-3.1.0&q=100&width=1216&s=be8e99cfdd7b13e4f30bb673146ac553"
       alt="laravel"
+      width="80"
+      height="40"
+    />
+  </a>
+
+   <a href="https://firebase.google.com/" style="margin-right: 10px;" target="_blank" rel="noreferrer">
+    <img
+      src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png"
+      alt="firebase"
       width="40"
       height="40"
     />
