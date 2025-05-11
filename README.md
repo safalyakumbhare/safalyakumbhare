@@ -11,13 +11,11 @@
 
 <ul>
   <li>
-    🌱 I’m currently learning **HTML5 , CSS3 , BOOTSTRAP 5 , JS , JQUERY , MYSQL
-    , PHP , LARAVEL , REACT**
+    🚀 Full Stack Web Developer  
   </li>
-  <li>👨‍💻 All of my projects are available at Github Profile</li>
+  <li>Skills: HTML5, CSS3, Bootstrap 5, JavaScript, jQuery, AJAX, PHP, Laravel 11, MySQL, Firebase, React.js (Learning)</li>
   <li>
-    💬 Ask me about **PHP , LARAVEL FRAMEWORK , REACT , FRONT-END AND BACK-END
-    DEVELOPMENT** - 
+    Passionate about building dynamic and impactful web apps.
   </li>
   <li>📫 How to reach me **safalyakumbhare@gmail.com**</li>
 </ul>
